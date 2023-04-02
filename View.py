@@ -2,7 +2,7 @@ from os import system
 from msvcrt import getwch
 import time
 
-
+ 
 def menu(): 
     time.sleep(1)
     system('CLS') 
