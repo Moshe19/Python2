@@ -1,0 +1,50 @@
+[
+    {
+        "Last_name": "Пагин",
+        "First_name": "Михаил",
+        "Patronymic": "Николаевич",
+        "Phone_numbers": "89644569878"
+    },
+    {
+        "Last_name": "Egor",
+        "First_name": "Letov",
+        "Patronymic": "Ficher",
+        "Phone_number": "8-750-282-45-21"
+    },
+    {
+        "Last_name": "Gendalf",
+        "First_name": "Grey",
+        "Patronymic": "Golden",
+        "Phone_number": "111"
+    },
+    {
+        "Last_name": "Neo",
+        "First_name": "Anderson",
+        "Patronymic": "Grin",
+        "Phone_number": "8110"
+    },
+    {
+        "Last_name": "Alisa",
+        "First_name": "Yandexovna",
+        "Patronymic": "Funt",
+        "Phone_number": "8-800-250-96-39"
+    },
+    {
+        "Last_name": "Ozzy",
+        "First_name": "Osborne",
+        "Patronymic": "Solo",
+        "Phone_number": "666"
+    },
+    {
+        "Last_name": "Harry",
+        "First_name": "Potter",
+        "Patronymic": "Bas",
+        "Phone_number": "33-55-33-22"
+    },
+    {
+        "Last_name": "Jack",
+        "First_name": "Sparrow",
+        "Patronymic": "Lester",
+        "Phone_number": "23-5234-623"
+    }
+]
