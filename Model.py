@@ -4,7 +4,7 @@ import time
 import View
 
 
-def read():
+def read(): 
     try:
         with open('telephone_directory.json', 'r', encoding="utf-8") as data:
             book = json.loads(data.read())
