@@ -4,7 +4,7 @@ import View
 def start():
     book = Model.read()
     while True:
-        n = View.menu()
+        n = View.menu() 
         if n == 1:
             book = Model.create_contact(book)
         if n == 2:

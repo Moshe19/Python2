@@ -2,8 +2,8 @@ from os import system
 from msvcrt import getwch
 import time
 
-
-def menu():
+ 
+def menu(): 
     time.sleep(1)
     system('CLS') 
     move = {1: 'Создать контакт', 2: 'Прочитать книгу',
